@@ -15,7 +15,7 @@ scoreboard objectives add closing dummy
 tag @a remove close
 scoreboard players set * closing 0
 
-tellraw @a[team=0config] ["",{"text":"COC : Loaded\n\nSetup "},{"text":"opening","clickEvent":{"action":"run_command","value":"/scoreboard players set setup setup 1"}},{"text":" / "},{"text":"closing","clickEvent":{"action":"run_command","value":"/scoreboard players set setup setup 2"}}]
+tellraw @a[team=0config] ["",{"text":"COC : Reseted\n\nSetup "},{"text":"opening","clickEvent":{"action":"run_command","value":"/scoreboard players set setup setup 1"}},{"text":" / "},{"text":"closing","clickEvent":{"action":"run_command","value":"/scoreboard players set setup setup 2"}}]
 
 
 team add 1staff
