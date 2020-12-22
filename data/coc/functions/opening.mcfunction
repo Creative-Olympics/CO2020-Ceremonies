@@ -5,5 +5,5 @@ team join z-member @a[scores={opening=0},team=!0config,team=!1staff,team=!a-part
 gamemode adventure @a[scores={opening=0},team=!0config,team=!1staff]
 title @a[scores={opening=0},team=!0config,team=!1staff] title ["",{"text":"Cre","color":"blue"},{"text":"ativ","color":"yellow"},{"text":"e Ol","color":"white"},{"text":"ymp","color":"dark_green"},{"text":"ics","color":"red"}]
 title @a[scores={opening=0},team=!0config,team=!1staff] subtitle {"text":"Welcome to the opening ceremony","color":"gold"}
-tellraw @a[scores={opening=0},team=!0config,team=!1staff] [{"text":"Welcome to the opening ceremony of the "},{"text":"Cre","color":"blue"},{"text":"ativ","color":"yellow"},{"text":"e Ol","color":"white"},{"text":"ymp","color":"dark_green"},{"text":"ics","color":"red"},{"text":"!\nThanks for joining us.\n\nDataPack made by "},{"text":"fantomitechno","color":"gold"}]
+tellraw @a[scores={opening=0},team=!0config,team=!1staff] [{"text":"Welcome to the opening ceremony of the "},{"text":"Cre","color":"blue"},{"text":"ativ","color":"yellow"},{"text":"e Ol","color":"white"},{"text":"ymp","color":"dark_green"},{"text":"ics","color":"red"},{"text":"!\nThanks for joining us."}]
 scoreboard players set @a[gamemode=adventure] opening 1
