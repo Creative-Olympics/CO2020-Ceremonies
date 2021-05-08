@@ -1,8 +1,9 @@
 team add 0config
 team modify 0config color red
+team modify 0config prefix {"text":"[Config] ","color":"red"}
 team join 0config config
 scoreboard objectives add see dummy
-scoreboard objectives setdisplay sidebar.team.red see
+#scoreboard objectives setdisplay sidebar.team.red see
 scoreboard players set config see 1000
 scoreboard objectives modify see displayname {"text":"Team List","color":"red"}
 scoreboard objectives add setup dummy

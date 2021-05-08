@@ -22,4 +22,5 @@ team modify uteam17 nametagVisibility always
 team modify uteam18 nametagVisibility always
 team modify uteam19 nametagVisibility always
 team modify uteam20 nametagVisibility always
+team modify y-builder nametagVisibility never
 team modify z-member nametagVisibility always
