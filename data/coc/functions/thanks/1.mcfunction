@@ -1,2 +1,2 @@
-tellraw @a ["",{"text":" \u0020Our staff :","italic":true,"color":"#D47611"},{"text":"\n"},{"text":"Admin : Z_runner","color":"#9A1513"},{"text":"\n"},{"text":"Staff : _JeffWooden, Awhikax, A~Z, fantomitechno, Gabriel (KubbyDev), gamercat113, Greninja_San, Leirof / Vincent, Neïl Rahmouni, rx, Seethy, SpookyPowa, TheDarven, Thomson","color":"#5544FF"}]
+tellraw @a ["",{"text":" \u0020Our staff :","italic":true,"color":"#D47611"},{"text":"\n"},{"text":"Admin : Z_runner, Leirof / Vincent,","color":"#9A1513"},{"text":"\n"},{"text":"Staff : _JeffWooden, Awhikax, A~Z, fantomitechno, Gabriel (KubbyDev), gamercat113, Greninja_San, Neïl Rahmouni, rx, Seethy, SpookyPowa, TheDarven, Thomson","color":"#5544FF"}]
 schedule function coc:thanks/2 2s
